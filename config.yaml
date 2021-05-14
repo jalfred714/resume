@@ -5,15 +5,7 @@ theme: hugo-devresume-theme
 googleAnalytics: UA-XXXXXXX-Y
 params:
   author: Juan Pacheco
-  awards:
-    enable: yes
-    list:
-      - body: Microsoft lorem ipsum
-        date: '2019'
-        name: Award Lorem Ipsum
-      - body: Oracle Aenean
-        date: '2017'
-        name: Award Donec Sodales
+
   contact:
     enable: yes
     list:
